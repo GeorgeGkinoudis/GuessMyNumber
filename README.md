@@ -16,12 +16,6 @@ This is a small JavaScript project I built while learning JavaScript through a U
 * Changing CSS styles with JavaScript<br>
 * Score and highscore logic<br>
 
-- ## Project Files
-
-index.html – structure<br>
-style.css – styling<br>
-script.js – game logic<br>
-
 ---
 
-made with <3 and lots of coffee ☕
+Built with ❤️ and lots of ☕
